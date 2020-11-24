@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG13781
   title: རྡུལ་ཚོན་དང་སྐུ་གདུང་ཐིག་རྩ་གཟུངས་གཞུག་བཅས་ཀྱི་ལག་ལེན།
-  volume: ''
+  volume:
+    73f52f6356234e7cba3e8eeffc54659c:
+      image_group_id: I1KG15281
+      title: Volume 1 of rdul tshon dang sku gdung thig rtsa gzungs gzhug bcas kyi
+        lag len/
+      volume_number: 1
+      total_pages: 112
   author: ''
+ebook_metadata:
+  title: རྡུལ་ཚོན་དང་སྐུ་གདུང་ཐིག་རྩ་གཟུངས་གཞུག་བཅས་ཀྱི་ལག་ལེན།
+  author: ''
+  sku: P006935
+  cover: cover.jpg
+  layers:
+  - pagination
