@@ -5,11 +5,13 @@ source_metadata:
   title: རྡུལ་ཚོན་དང་སྐུ་གདུང་ཐིག་རྩ་གཟུངས་གཞུག་བཅས་ཀྱི་ལག་ལེན།
   author: ''
   volumes:
-    639ce25e1c0441a696cd175f1d32a360:
+    73f52f6356234e7cba3e8eeffc54659c:
       image_group_id: I1KG15281
-      title: ''
+      title: Volume 1 of rdul tshon dang sku gdung thig rtsa gzungs gzhug bcas kyi
+        lag len/
       volume_number: 1
       total_pages: 112
+      base_file: v001.txt
 ebook_metadata:
   title: རྡུལ་ཚོན་དང་སྐུ་གདུང་ཐིག་རྩ་གཟུངས་གཞུག་བཅས་ཀྱི་ལག་ལེན།
   author: ''
